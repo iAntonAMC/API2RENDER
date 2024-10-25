@@ -16,7 +16,7 @@ personas = Table(
 )
 
 # URL de la base de datos (deberías usar la URL interna de Render)
-DATABASE_URL = "postgresql://user:w96Ac6ocIRBivx3lFT2ZFo0VD6EqedTF@dpg-csc0qujv2p9s73dmr1n0-a.oregon-postgres.render.com/db_agenda_zdvl"
+DATABASE_URL = "postgresql://pruebapostdb_user:Q7VByH0IrglzFARHfwIWscYD6Eyt7DKi@dpg-cse0cpm8ii6s73cp44m0-a.oregon-postgres.render.com/pruebapostdb"
 
 # Configurar la base de datos
 database = Database(DATABASE_URL)
